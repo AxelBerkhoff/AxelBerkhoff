@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AxelBerkhoff
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning Coding the Rico Pi with a Pimoroni Keypad
+- 🌱 I’m currently learning Coding an Discord Bot
 
 
 <!---
